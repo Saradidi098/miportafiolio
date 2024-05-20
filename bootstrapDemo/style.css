@@ -1,0 +1,24 @@
+/* Estilos personalizados para colores pastel cafés */
+:root {
+    --pastel-brown: #434242;
+    --light-brown: #8e8d8c;
+  }
+  body {
+    background-color: var(--light-brown);
+    color: var(--pastel-brown);
+  }
+  .card {
+    background-color: var(--pastel-brown);
+    color: white;
+  }
+  .btn-pastel {
+    background-color: var(--light-brown);
+    color: var(--pastel-brown);
+  }
+  .navbar {
+    background-color: var(--pastel-brown);
+  }
+  footer {
+    background-color: var(--pastel-brown);
+  }
+  
